@@ -7,3 +7,5 @@ Prediction performance (AUC) of analyzing application_train/test data with 'Clea
 if considering bureau data, AUC: 0.757
 
 if considering bureau + previous application, AUC: 0.769
+
+if considering credit-balance, Pos Balance and instalment data: 0.784
